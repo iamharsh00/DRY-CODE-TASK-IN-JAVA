@@ -12,7 +12,7 @@ This is a simple and secure password generator implemented in Java. The program 
 
 1. Clone or download this repository to your local machine.
 2. Open the project in your preferred Java IDE.
-3. Compile and run the `PasswordGenerator.java` file.
+3. Compile and run the `PasswordGeneratorGUI.java` file.
 4. Follow the instructions on the console to specify your password preferences:
    - Enter the desired password length.
    - Indicate whether to include uppercase letters, lowercase letters, numbers, and special characters.
